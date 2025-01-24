@@ -26,8 +26,9 @@ This repository is organized to help you easily navigate through various example
 │   │   ├── submit_workflow.ipynb        # Submitting workflows to TDAG backend
 │   │   └── monitor_workflow.ipynb        # Monitoring workflow execution
 │   ├── vam_client/
-│   │   ├── retrieve_data.ipynb          # Fetching valuation data
-│   │   └── process_analytics.ipynb       # Processing analytics data
+│   │   ├── asset_workflow.ipynb          # Fetching and Filtering Asset Data
+│   │   └── custom_trading_reporting.ipynb     # Building custom reporting and Post Trade Analysis
+│   │   └── portfolio_performance_attribute.ipynb     # Build a portfolio and fund custom performance attribution
 ├── README.md
 └── Pipfile
 ```
